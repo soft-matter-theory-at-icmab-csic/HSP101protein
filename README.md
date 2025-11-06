@@ -6,5 +6,9 @@ The contents of the folders is as follows:
 - *hexamer*: building of an hexamer of HSP101 and equilibrated structure from MD simulations.
 - *HSP101hex_MC1*: interaction of MC1 with an hexamer of HSP101 inferred from alignment of monomer HSP101 - MC1 structures
 
+Protein sequences:
+MC1: [uniprot code Q7XJE6](https://www.uniprot.org/uniprotkb/Q7XJE6/entry)
+HSP101: [uniprot code Q9C5C7](https://www.uniprot.org/uniprotkb/Q9C5Q7/entry)
+
 
 
