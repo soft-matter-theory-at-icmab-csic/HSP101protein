@@ -12,7 +12,7 @@ The contents of the different folders is organized as follows:
 - *HSP101hexamer_equilibrated_structure-MC1*: interaction of MC1 with a 100-ns production-run–equilibrated structure of the HSP101 hexamer
 - *HSP101hex_MC1*: interaction of MC1 with an refined-structure of HSP101 hexamer before the 100-ns production-run from alignment of monomer HSP101 with bound MC1 structures
   
-Protein sequences:
+Sources for the Protein sequences:
 
 MC1: [uniprot code Q7XJE6](https://www.uniprot.org/uniprotkb/Q7XJE6/entry)
 
